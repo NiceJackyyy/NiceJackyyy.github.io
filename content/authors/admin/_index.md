@@ -35,7 +35,6 @@ education:
   - area: Master of Management Analytics (MMA)
     institution: Rotman School of Management, University of Toronto
     date_start: 2024-08-01
-    Ongoing
     summary: |
       - Currently pursuing a Master’s degree focused on advanced data analysis, machine learning, and management analytics.
       - Courses include Machine Learning Analytics, Structuring and Visualizing Data, and Tools for Probabilistic Models and Prescriptive Analytics.
