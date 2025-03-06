@@ -35,15 +35,18 @@ education:
   - area: Master of Management Analytics (MMA)
     institution: Rotman School of Management, University of Toronto
     date_start: 2024-08-01
-    date_end: 2025-08-31
+    Ongoing
     summary: |
-      Currently pursuing a Master’s degree focused on advanced data analysis, machine learning, and management analytics. Courses include Machine Learning Analytics, Structuring and Visualizing Data, and Tools for Probabilistic Models and Prescriptive Analytics.
+      - Currently pursuing a Master’s degree focused on advanced data analysis, machine learning, and management analytics.
+      - Courses include Machine Learning Analytics, Structuring and Visualizing Data, and Tools for Probabilistic Models and Prescriptive Analytics.
   - area: Honors Bachelor of Science (BASc) - Double Major in Economics & Statistics
     institution: University of Toronto
     date_start: 2019-09-01
     date_end: 2024-06-30
     summary: |
-      Graduated with High Distinction, CGPA: 3.84/4.0. Dean’s List Scholar (2021-2023). Completed a research project abroad in Oxford, England, on Big Data Tools & Applied Machine Learning for Economists. Key courses: Statistical Machine Learning, Financial Economics, and Data Visualization.
+      - Graduated with High Distinction, CGPA: 3.84/4.0. Dean’s List Scholar (2021-2023). New College scholarship (2021)
+      - Completed a research project abroad in Oxford, England, on Big Data Tools & Applied Machine Learning for Economists.
+      - Key courses: Statistical Machine Learning, Financial Economics, and Data Visualization.
 
 work:
   - position: Data Scientist Intern
@@ -93,27 +96,31 @@ skills:
         icon: devicon/sql
       - name: R
         description: ''
-        percent: 75
+        percent: 85
         icon: devicon/r
       - name: Machine Learning
         description: ''
-        percent: 70
+        percent: 80
         icon: devicon/pytorch  # Placeholder, adjust icon as needed
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Data Visualization
+      - name: Cooking
         description: ''
         percent: 90
-        icon: chart-bar
+        icon: food
       - name: Hiking
         description: ''
-        percent: 60
+        percent: 70
         icon: person-simple-walk
-      - name: Team Competitions
+      - name: Gym
         description: ''
         percent: 80
+        icon: gym
+      - name: Team activity
+        description: ''
+        percent: 65
         icon: users
 
 languages:
@@ -139,10 +146,11 @@ awards:
       Learned foundational concepts of machine learning and its applications in product management.
   - title: Best Visualization Award (2nd Place)
     url: ''
-    date: '2023-01-01'
+    date: '2023-05-01'
     awarder: ASA DataFest @ University of Toronto
     summary: |
       Recognized for exceptional data visualization in a competitive team setting.
 ---
 
-I am currently a Data Scientist Intern at Canadian Tire Corporation, where I am applying my expertise in data analysis, machine learning, and statistical methods to drive actionable business insights. With a strong academic foundation in Economics and Statistics from the University of Toronto and ongoing graduate studies in Management Analytics at Rotman, I am passionate about leveraging data to solve real-world problems.
+I am currently a Data Scientist Intern at Canadian Tire Corporation, where I am applying my expertise in data analysis, machine learning, and statistical methods to drive actionable business insights. 
+With a strong academic foundation in Economics and Statistics from the University of Toronto and ongoing graduate studies in Management Analytics at Rotman, I am passionate about leveraging data to solve real-world problems.
