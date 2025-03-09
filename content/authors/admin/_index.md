@@ -132,10 +132,10 @@ projects:
     date: '2023-07-01'
     awarder: Oxford, England
     summary: |
-      - Designed research questions and authored academic paper as part of a project-based course under the direct mentorship of professor
-      - Analyzed real-world dataset of 17,000+ records, in conjunction with 4 census datasets, using geospatial analysis 
-      - Employed Python functions to execute data visualization, geospatial analysis using zip code shape files, and merging census data for further modelling
-      - Utilized regressions and machine learning techniques to enable statistical predictions; prepared and delivered a presentation that summarized intricate relationship between population density, food delivery services and Yelp ratings in Arizona
+      Designed research questions and authored academic paper as part of a project-based course under the direct mentorship of professor
+      Analyzed real-world dataset of 17,000+ records, in conjunction with 4 census datasets, using geospatial analysis
+      Employed Python functions to execute data visualization, geospatial analysis using zip code shape files, and merging census data for further modelling
+      Utilized regressions and machine learning techniques to enable statistical predictions; prepared and delivered a presentation that summarized the intricate relationship between population density, food delivery services and Yelp ratings in Arizona
 
 awards:
   - title: Technical Interview Prep
