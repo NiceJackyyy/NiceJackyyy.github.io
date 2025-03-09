@@ -27,7 +27,7 @@ profiles:
     url: 'mailto:junjie.xu@rotman.utoronto.ca'
     label: E-mail Me
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/junjie-xu-jacky/
+    url: 'https://www.linkedin.com/in/junjie-xu-jacky/
     label: Connect on LinkedIn
 
 education:
@@ -126,7 +126,7 @@ languages:
   - name: Mandarin
     percent: 100
 
-awards:
+projects:
   - title: Big Data Tools & Applied Machine Learning for Economists Research Project
     url: ''
     date: '2023-07-01'
@@ -136,12 +136,14 @@ awards:
       - Analyzed real-world dataset of 17,000+ records, in conjunction with 4 census datasets, using geospatial analysis 
       - Employed Python functions to execute data visualization, geospatial analysis using zip code shape files, and merging census data for further modelling
       - Utilized regressions and machine learning techniques to enable statistical predictions; prepared and delivered a presentation that summarized intricate relationship between population density, food delivery services and Yelp ratings in Arizona
-  - title: Best Visualization Award (2nd Place)
+
+awards:
+  - title: Technical Interview Prep
     url: ''
-    date: '2023-05-01'
-    awarder: ASA DataFest @ University of Toronto
+    date: '2024-11-01'
+    awarder: Wall Street Prep
     summary: |
-      Recognized for exceptional data visualization in a competitive team setting.
+      Gained skills in preparing for technical interviews in data science and analytics.
   - title: Machine Learning Foundations for Product Managers
     url: 'https://www.coursera.org'
     date: '2022-06-01'
@@ -149,6 +151,12 @@ awards:
     icon: coursera
     summary: |
       Learned foundational concepts of machine learning and its applications in product management.
+  - title: Best Visualization Award (2nd Place)
+    url: ''
+    date: '2023-05-01'
+    awarder: ASA DataFest @ University of Toronto
+    summary: |
+      Recognized for exceptional data visualization in a competitive team setting.
 ---
 
 I am currently a Data Scientist Intern at Canadian Tire Corporation, where I am applying my expertise in data analysis, machine learning, and statistical methods to drive actionable business insights. 
