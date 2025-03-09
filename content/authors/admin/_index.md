@@ -126,7 +126,7 @@ languages:
   - name: Mandarin
     percent: 100
 
-projects:
+awards:
   - title: Big Data Tools & Applied Machine Learning for Economists Research Project
     url: ''
     date: '2023-07-01'
