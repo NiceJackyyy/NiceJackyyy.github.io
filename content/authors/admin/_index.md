@@ -22,7 +22,6 @@ organizations:
     url: https://www.canadiantire.ca/
 
 # Social network links
-# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
     url: 'mailto:junjie.xu@rotman.utoronto.ca'
@@ -35,6 +34,7 @@ education:
   - area: Master of Management Analytics (MMA)
     institution: Rotman School of Management, University of Toronto
     date_start: 2024-08-01
+    date_end: ''
     summary: |
       - Currently pursuing a Master’s degree focused on advanced data analysis, machine learning, and management analytics.
       - Courses include Machine Learning Analytics, Structuring and Visualizing Data, and Tools for Probabilistic Models and Prescriptive Analytics.
@@ -80,8 +80,6 @@ work:
       - Represented the department at the UN SIAP training program for data visualization and health statistics.
       - Introduced BI tools to enhance data collection and processing efficiency.
 
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
@@ -100,7 +98,7 @@ skills:
       - name: Machine Learning
         description: ''
         percent: 80
-        icon: devicon/pytorch  # Placeholder, adjust icon as needed
+        icon: devicon/pytorch
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -108,7 +106,7 @@ skills:
       - name: Cooking
         description: ''
         percent: 90
-        icon: food
+        icon: utensils
       - name: Hiking
         description: ''
         percent: 70
@@ -116,7 +114,7 @@ skills:
       - name: Gym
         description: ''
         percent: 80
-        icon: gym
+        icon: dumbbell
       - name: Team activity
         description: ''
         percent: 65
@@ -124,11 +122,11 @@ skills:
 
 languages:
   - name: English
+    percent: 100
   - name: Mandarin
+    percent: 100
 
-
-# Projects
-Projects:
+projects:
   - title: Big Data Tools & Applied Machine Learning for Economists Research Project
     url: ''
     date: '2023-07-01'
@@ -139,8 +137,6 @@ Projects:
       - Employed Python functions to execute data visualization, geospatial analysis using zip code shape files, and merging census data for further modelling
       - Utilized regressions and machine learning techniques to enable statistical predictions; prepared and delivered a presentation that summarized intricate relationship between population density, food delivery services and Yelp ratings in Arizona
 
-
-# Awards
 awards:
   - title: Technical Interview Prep
     url: ''
