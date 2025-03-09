@@ -126,6 +126,7 @@ languages:
   - name: English
   - name: Mandarin
 
+
 # Projects
 Projects:
   - title: Big Data Tools & Applied Machine Learning for Economists Research Project
@@ -137,7 +138,8 @@ Projects:
       - Analyzed real-world dataset of 17,000+ records, in conjunction with 4 census datasets, using geospatial analysis 
       - Employed Python functions to execute data visualization, geospatial analysis using zip code shape files, and merging census data for further modelling
       - Utilized regressions and machine learning techniques to enable statistical predictions; prepared and delivered a presentation that summarized intricate relationship between population density, food delivery services and Yelp ratings in Arizona
-    
+
+
 # Awards
 awards:
   - title: Technical Interview Prep
@@ -162,4 +164,5 @@ awards:
 ---
 
 I am currently a Data Scientist Intern at Canadian Tire Corporation, where I am applying my expertise in data analysis, machine learning, and statistical methods to drive actionable business insights. 
+
 With a strong academic foundation in Economics and Statistics from the University of Toronto and ongoing graduate studies in Management Analytics at Rotman, I am passionate about leveraging data to solve real-world problems.
